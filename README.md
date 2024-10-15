@@ -1,2 +1,2 @@
 # Skarbnica
-Tu znajdziesz wszystko o C#
+## Tu znajdziesz wszystko o C#
